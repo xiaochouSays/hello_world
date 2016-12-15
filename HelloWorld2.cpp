@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : HelloWorld2.cpp
 // Author      : null
-// Version     : 000
+// Version     : 0
 // Blank       : 
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
