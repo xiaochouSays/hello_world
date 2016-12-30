@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : HelloWorld2.cpp
 // Author      : null
-// Version     : 
+// Version     : 20161230
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
@@ -10,6 +10,6 @@
 using namespace std;
 
 int main() {
-	cout << "!!!ffHello World!!!" << endl; // prints !!!Hello World!!!
-	return 0;
+    cout << "!!!ffHello World!!!" << endl; // prints !!!Hello World!!!
+    return 0;
 }
